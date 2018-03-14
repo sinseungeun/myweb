@@ -1,0 +1,5 @@
+**/*.psd
+**/*.ai
+node_modules/
+work
+scss
